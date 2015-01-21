@@ -1,28 +1,25 @@
-=== TSATU Homelayout ===
-Contributors:      Andrii Ryzhkov
-Sourse:            https://github.com/andriiryzhkov/tsatu-homelayout/
-Tags: 
-Requires at least: 3.9
-Tested up to:      4.1
-Stable tag:        0.1.0
-License:           GPLv2 or later
-License URI:       http://www.gnu.org/licenses/gpl-2.0.html
+# TSATU Homelayout
 
-Customizable widgetized areas for the front page.
+Wordpress Plugin - Customizable widgetized areas for the front page.
 
-== Installation ==
+Developed by Andrii Ryzhkov - https://github.com/andriiryzhkov
 
-= Manual Installation =
+* Source: [https://github.com/andriiryzhkov/tsatu-homelayout](https://github.com/andriiryzhkov/tsatu-homelayout)
+* Requires at least: 3.9
+* Tested up to: 4.1
+* Documentation: [https://github.com/andriiryzhkov/tsatu-homelayout/wiki](https://github.com/andriiryzhkov/tsatu-homelayout/wiki)
+* Issues: [https://github.com/andriiryzhkov/tsatu-homelayout/issues](https://github.com/andriiryzhkov/tsatu-homelayout/issues)
+* License: [GNU General Public License, Version 2.0](http://www.gnu.org/licenses/gpl-2.0.html)
+
+
+## Installation
+
+### Manual Installation
 
 1. Upload the entire `/tsatu-homelayout` directory to the `/wp-content/plugins/` directory.
 2. Activate TSATU Homelayout through the 'Plugins' menu in WordPress.
 
-== Changelog ==
+## Changelog
 
-= 0.1.0 =
+### 0.1.0
 * First release
-
-== Upgrade Notice ==
-
-= 0.1.0 =
-First Release
