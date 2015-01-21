@@ -1,0 +1,20 @@
+{
+  "name": "tsatu-homelayout",
+  "version": "0.1.0",
+  "homepage": "https://github.com/andriiryzhkov/tsatu-homelayout/",
+  "authors": [
+    "Andrii Ryzhkov <andrii.ryzhkov@gmail.com>"
+  ],
+  "license": "GPLv2",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "assets/vendor"
+  ],
+  "dependencies": {
+    "modernizr": "2.8.2",
+    "jquery": "1.11.1",
+    "bootstrap": "3.3.1"
+  }
+}

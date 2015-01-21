@@ -1,0 +1,86 @@
+# Copyright (C) 2015 Andrii Ryzhkov
+# This file is distributed under the GPLv2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: TSATU Homelayout 0.1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/tsatu-homelayout\n"
+"POT-Creation-Date: 2015-01-21 13:17:14+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: includes/customizer.php:13 includes/sidebar.php:9
+msgid "One"
+msgstr ""
+
+#: includes/customizer.php:14 includes/sidebar.php:10
+msgid "Two"
+msgstr ""
+
+#: includes/customizer.php:15 includes/sidebar.php:11
+msgid "Three"
+msgstr ""
+
+#: includes/customizer.php:16 includes/sidebar.php:12
+msgid "Four"
+msgstr ""
+
+#: includes/customizer.php:17 includes/sidebar.php:13
+msgid "Five"
+msgstr ""
+
+#: includes/customizer.php:23
+msgid "Front Page"
+msgstr ""
+
+#: includes/customizer.php:27
+msgid "General"
+msgstr ""
+
+#: includes/customizer.php:39
+msgid "Show customizable widget areas on Front Page"
+msgstr ""
+
+#: includes/customizer.php:51
+msgid "Remove content of the static page"
+msgstr ""
+
+#: includes/customizer.php:60
+msgid "Widget Area %s"
+msgstr ""
+
+#: includes/customizer.php:71
+msgid "Number of columns"
+msgstr ""
+
+#: includes/customizer.php:87
+msgid "Widget Area %1$s - %2$s/6"
+msgstr ""
+
+#: includes/sidebar.php:25
+msgid "Front Page Area %1$s - %2$s/%3$s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "TSATU Homelayout"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/andriiryzhkov/tsatu_homelayout/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Customizable widgetized areas for the front page."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Andrii Ryzhkov"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/andriiryzhkov"
+msgstr ""
