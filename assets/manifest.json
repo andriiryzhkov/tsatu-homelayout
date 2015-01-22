@@ -1,0 +1,14 @@
+{
+  "dest": "assets/manifest.json",
+  "querystring": true,
+  "assets/css/main.min.css": {
+    "path": "assets/css/main.min.css",
+    "hash": "2ff4f74ce613211be6d4c0bd72324868",
+    "handle": "tsatu_homelayout_style"
+  },
+  "assets/js/scripts.min.js": {
+    "path": "assets/js/scripts.min.js",
+    "hash": "2d1efbe8b2529a621643335fafbe3c76",
+    "handle": "tsatu_homelayout_js"
+  }
+}
